@@ -1,13 +1,3 @@
 cool
 not cool
-<<<<<<< HEAD
---branch01
-+++++ooo++++ppp
-=======
-g
-g
-g
-g
-g
 
->>>>>>> 31476887224cd0cfa9304cd41c47413215ca1779
